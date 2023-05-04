@@ -1,10 +1,3 @@
-Calculating total winnings (2)
-Now you understand how R does arithmetic with vectors, it is time to get those Ferraris in your garage! 
-First, you need to understand what the overall profit or loss per day of the week was. The total daily profit is the sum of the profit/loss you realized on poker per day, and the profit/loss you realized on roulette per day.
-
-In R, this is just the sum of roulette_vector and poker_vector.
-
-================ CODE ===============
 
 # Poker and roulette winnings from Monday to Friday:
 poker_vector <- c(140, -50, 20, -120, 240)

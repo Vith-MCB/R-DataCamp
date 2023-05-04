@@ -1,13 +1,4 @@
-Naming a vector (2)
-If you want to become a good statistician, you have to become lazy. (If you are already lazy, chances are high you are one of those exceptional, natural-born statistical talents.)
 
-In the previous exercises you probably experienced that it is boring and frustrating to type and retype information such as the 
-days of the week. However, when you look at it from a higher perspective, there is a more efficient way to do this, namely, 
-to assign the days of the week vector to a variable!
-
-Just like you did with your poker and roulette returns, you can also create a variable that contains the days of the week. This way you can use and re-use it.
-
-================= CODES ==============
 
 # Poker winnings from Monday to Friday
 poker_vector <- c(140, -50, 20, -120, 240)
