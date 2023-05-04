@@ -1,0 +1,18 @@
+```{r}
+#Config
+library(data.table)
+library(writexl)
+library(readxl)
+library(tidyverse)
+library(rstudioapi)
+library(magrittr)
+library(lubridate)
+library(openxlsx)
+library(readxl)
+`%!in%` <- Negate(`%in%`)
+```
+
+```{r}
+#
+```
+
